@@ -7,18 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		851592942C184E1F00C6E111 /* CommunityLandingPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851592932C184E1F00C6E111 /* CommunityLandingPageView.swift */; };
+		856DC6D82BFE435900289BA5 /* AddPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 856DC6D72BFE435900289BA5 /* AddPostView.swift */; };
 		85B1DF7A2BFCAA6500466CD5 /* UIkit2SwiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF792BFCAA6500466CD5 /* UIkit2SwiftuiApp.swift */; };
 		85B1DF7C2BFCAA6500466CD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF7B2BFCAA6500466CD5 /* ContentView.swift */; };
 		85B1DF7E2BFCAA6700466CD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85B1DF7D2BFCAA6700466CD5 /* Assets.xcassets */; };
 		85B1DF812BFCAA6700466CD5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85B1DF802BFCAA6700466CD5 /* Preview Assets.xcassets */; };
+		85B1DF882BFCAAFB00466CD5 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF872BFCAAFB00466CD5 /* Comment.swift */; };
+		85B1DF8B2BFCAB1800466CD5 /* CommentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF8A2BFCAB1800466CD5 /* CommentManager.swift */; };
+		85B1DF8D2BFCAB2500466CD5 /* CommentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF8C2BFCAB2500466CD5 /* CommentView.swift */; };
+		85B1DF912BFCAB4300466CD5 /* EmojiSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF902BFCAB4300466CD5 /* EmojiSelectionView.swift */; };
+		85B1DF932BFCAB4B00466CD5 /* EmojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF922BFCAB4B00466CD5 /* EmojiView.swift */; };
+		85B1DF952BFCAB5300466CD5 /* OptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF942BFCAB5300466CD5 /* OptionsView.swift */; };
+		85B1DF972BFCAB5900466CD5 /* ReactionsReplyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF962BFCAB5900466CD5 /* ReactionsReplyView.swift */; };
+		85B1DF992BFCAB6200466CD5 /* VerticalDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF982BFCAB6200466CD5 /* VerticalDivider.swift */; };
+		85B1DF9B2BFCAB6C00466CD5 /* CommunityNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF9A2BFCAB6C00466CD5 /* CommunityNavigationBar.swift */; };
+		85B1DF9D2BFCAB7C00466CD5 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF9C2BFCAB7C00466CD5 /* HeaderView.swift */; };
+		85B1DF9F2BFCAB8700466CD5 /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B1DF9E2BFCAB8700466CD5 /* PostView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		851592932C184E1F00C6E111 /* CommunityLandingPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityLandingPageView.swift; sourceTree = "<group>"; };
+		856DC6D72BFE435900289BA5 /* AddPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPostView.swift; sourceTree = "<group>"; };
 		85B1DF762BFCAA6500466CD5 /* UIkit2Swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIkit2Swiftui.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85B1DF792BFCAA6500466CD5 /* UIkit2SwiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIkit2SwiftuiApp.swift; sourceTree = "<group>"; };
 		85B1DF7B2BFCAA6500466CD5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		85B1DF7D2BFCAA6700466CD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85B1DF802BFCAA6700466CD5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		85B1DF872BFCAAFB00466CD5 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
+		85B1DF8A2BFCAB1800466CD5 /* CommentManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentManager.swift; sourceTree = "<group>"; };
+		85B1DF8C2BFCAB2500466CD5 /* CommentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentView.swift; sourceTree = "<group>"; };
+		85B1DF902BFCAB4300466CD5 /* EmojiSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiSelectionView.swift; sourceTree = "<group>"; };
+		85B1DF922BFCAB4B00466CD5 /* EmojiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiView.swift; sourceTree = "<group>"; };
+		85B1DF942BFCAB5300466CD5 /* OptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsView.swift; sourceTree = "<group>"; };
+		85B1DF962BFCAB5900466CD5 /* ReactionsReplyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactionsReplyView.swift; sourceTree = "<group>"; };
+		85B1DF982BFCAB6200466CD5 /* VerticalDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalDivider.swift; sourceTree = "<group>"; };
+		85B1DF9A2BFCAB6C00466CD5 /* CommunityNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityNavigationBar.swift; sourceTree = "<group>"; };
+		85B1DF9C2BFCAB7C00466CD5 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		85B1DF9E2BFCAB8700466CD5 /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +79,12 @@
 			children = (
 				85B1DF792BFCAA6500466CD5 /* UIkit2SwiftuiApp.swift */,
 				85B1DF7B2BFCAA6500466CD5 /* ContentView.swift */,
+				85B1DF8F2BFCAB3400466CD5 /* Views */,
+				85B1DF9A2BFCAB6C00466CD5 /* CommunityNavigationBar.swift */,
+				85B1DF9C2BFCAB7C00466CD5 /* HeaderView.swift */,
+				85B1DF9E2BFCAB8700466CD5 /* PostView.swift */,
+				851592932C184E1F00C6E111 /* CommunityLandingPageView.swift */,
+				85B1DF892BFCAB0300466CD5 /* Models */,
 				85B1DF7D2BFCAA6700466CD5 /* Assets.xcassets */,
 				85B1DF7F2BFCAA6700466CD5 /* Preview Content */,
 			);
@@ -65,6 +97,37 @@
 				85B1DF802BFCAA6700466CD5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		85B1DF892BFCAB0300466CD5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				85B1DF872BFCAAFB00466CD5 /* Comment.swift */,
+				85B1DF8A2BFCAB1800466CD5 /* CommentManager.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		85B1DF8E2BFCAB2B00466CD5 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				85B1DF8C2BFCAB2500466CD5 /* CommentView.swift */,
+				856DC6D72BFE435900289BA5 /* AddPostView.swift */,
+				85B1DF902BFCAB4300466CD5 /* EmojiSelectionView.swift */,
+				85B1DF922BFCAB4B00466CD5 /* EmojiView.swift */,
+				85B1DF942BFCAB5300466CD5 /* OptionsView.swift */,
+				85B1DF962BFCAB5900466CD5 /* ReactionsReplyView.swift */,
+				85B1DF982BFCAB6200466CD5 /* VerticalDivider.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		85B1DF8F2BFCAB3400466CD5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				85B1DF8E2BFCAB2B00466CD5 /* Components */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +201,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				85B1DF7C2BFCAA6500466CD5 /* ContentView.swift in Sources */,
+				85B1DF9B2BFCAB6C00466CD5 /* CommunityNavigationBar.swift in Sources */,
+				85B1DF8B2BFCAB1800466CD5 /* CommentManager.swift in Sources */,
+				85B1DF972BFCAB5900466CD5 /* ReactionsReplyView.swift in Sources */,
+				85B1DF912BFCAB4300466CD5 /* EmojiSelectionView.swift in Sources */,
+				85B1DF952BFCAB5300466CD5 /* OptionsView.swift in Sources */,
+				85B1DF992BFCAB6200466CD5 /* VerticalDivider.swift in Sources */,
+				85B1DF9D2BFCAB7C00466CD5 /* HeaderView.swift in Sources */,
+				85B1DF932BFCAB4B00466CD5 /* EmojiView.swift in Sources */,
+				85B1DF882BFCAAFB00466CD5 /* Comment.swift in Sources */,
+				856DC6D82BFE435900289BA5 /* AddPostView.swift in Sources */,
+				85B1DF8D2BFCAB2500466CD5 /* CommentView.swift in Sources */,
+				85B1DF9F2BFCAB8700466CD5 /* PostView.swift in Sources */,
+				851592942C184E1F00C6E111 /* CommunityLandingPageView.swift in Sources */,
 				85B1DF7A2BFCAA6500466CD5 /* UIkit2SwiftuiApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
