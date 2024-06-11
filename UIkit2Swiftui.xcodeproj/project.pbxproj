@@ -79,6 +79,7 @@
 			children = (
 				85B1DF792BFCAA6500466CD5 /* UIkit2SwiftuiApp.swift */,
 				85B1DF7B2BFCAA6500466CD5 /* ContentView.swift */,
+				85B1DF8E2BFCAB2B00466CD5 /* Components */,
 				85B1DF8F2BFCAB3400466CD5 /* Views */,
 				85B1DF9A2BFCAB6C00466CD5 /* CommunityNavigationBar.swift */,
 				85B1DF9C2BFCAB7C00466CD5 /* HeaderView.swift */,
@@ -125,7 +126,6 @@
 		85B1DF8F2BFCAB3400466CD5 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				85B1DF8E2BFCAB2B00466CD5 /* Components */,
 			);
 			path = Views;
 			sourceTree = "<group>";

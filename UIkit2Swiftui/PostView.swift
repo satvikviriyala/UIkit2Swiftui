@@ -103,7 +103,7 @@ struct PostView: View {
                                                  parentComment: nil), isReplying: $isReplying)
                 .padding(.horizontal, 16)
                 .padding(.vertical, 10)
-
+            Spacer()
             CommentView(comment: Comment(userName: "Placeholder",
                                          userAvatar: Image("userAvatar"),
                                          content: "This is a placeholder comment.",
